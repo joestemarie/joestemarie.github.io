@@ -5,6 +5,8 @@ title: Test post!
 
 Is it working?! I hope it's working!
 
+Wait will this update the content, actually?
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
