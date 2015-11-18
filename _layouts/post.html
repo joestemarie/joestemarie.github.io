@@ -65,15 +65,9 @@
     <div class="container">
       <div class="row">
       <p class="blue-text">Posted {{ page.date | date: "%B %e, %Y" }}</p>
-      <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mauris diam, dignissim aliquet commodo in, vulputate ut urna. Maecenas nibh nunc, iaculis dictum eros sed, pretium sagittis eros. Donec vitae ligula in urna lobortis maximus sed a lacus.</p>
+      <p class="flow-text">{{ page.snippet }}</p>
 
-      <p>Phasellus sit amet lacinia quam. Quisque et erat lectus. Nam facilisis a risus a ornare. Nullam gravida non sem sit amet tristique. Praesent vulputate massa nunc, hendrerit fermentum tellus laoreet et. Aenean interdum lacinia sagittis. Sed ipsum sem, facilisis et volutpat et, ultrices quis tortor.</p>
-
-      <p>Maecenas laoreet posuere sapien, vel facilisis magna lobortis id. Donec vulputate placerat nibh et consectetur. Mauris porta imperdiet consectetur. Duis dignissim massa et sapien bibendum, id tincidunt velit condimentum. Quisque sit amet sapien tristique, dignissim mi nec, malesuada sapien. Vestibulum vitae auctor metus. Nullam et nunc eu nunc faucibus ultricies. Pellentesque ligula urna, aliquam quis urna nec, tristique tempor felis. Aliquam pretium sem a finibus tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quam leo, pharetra sit amet lacinia ut, venenatis sit amet quam. Ut aliquam lobortis mauris at bibendum. Duis sit amet mattis odio. Phasellus ac mattis augue, sit amet porttitor lectus. Phasellus luctus et enim id ornare.</p>
-
-      <p>Morbi molestie luctus metus ut ornare. In iaculis sit amet lacus vel rutrum. Donec ultrices enim a tellus molestie, ac hendrerit lectus pulvinar. Mauris fermentum a lorem vitae feugiat. Cras hendrerit lorem a turpis tempus viverra eget ut ipsum. Integer tincidunt, augue sit amet iaculis lacinia, massa justo consequat metus, vitae egestas purus nulla at metus. Integer ac fringilla est, dapibus mollis risus. Curabitur nec sagittis nibh, eget malesuada tortor. Mauris risus lorem, tempus eu ultrices in, luctus in magna. Quisque fringilla diam vulputate viverra tincidunt. Nulla gravida malesuada maximus. Vivamus ut auctor arcu. Nunc a urna odio. Vivamus vitae ullamcorper elit. Curabitur pretium fringilla enim.</p>
-
-      <p>Morbi aliquet ultricies ipsum, eu ornare enim pellentesque ut. Donec eu nisi sit amet arcu suscipit dignissim. Vivamus sit amet ligula a est ultricies tincidunt. Nam euismod urna lobortis, pretium urna ut, dapibus felis. Integer ac lorem tempus, tempor ex ut, accumsan ligula. Fusce laoreet ligula eget lorem ultrices pharetra. Mauris ac elit elit. Nam orci erat, placerat ut euismod a, commodo in lectus. Etiam neque ligula, pellentesque vel eleifend sed, ultricies in neque.</p>
+      {{ content }}
         
         <div class="divider"></div>
         <h5>Other Posts</h5>
