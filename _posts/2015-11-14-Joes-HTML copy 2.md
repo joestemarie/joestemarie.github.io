@@ -1,0 +1,17 @@
+---
+layout: post
+title: Joe's HTML Theory of Life
+image: /images/cardboardtable.jpg
+snippet: Code imitates life. Life imitates code.
+spotify: spotify:album:1NTLKANenV7OuwDi37QUhQ
+---
+
+A few years ago, I started learning how to code by learning HTML to build basic web pages. I was maybe fifteen - and I had no idea what I was doing. But it started me on a path that's played a significant role in my life for the last six (I guess) years.
+
+The first pages that I built in HTML were simple - _painfully_ simple. We're talking code that would produce some barebones text on a simple, white screen. I'm sure I didn't even know how to deploy that code and put it on the internet. It was totally useless. All code is like that. Initially, all computers could do was add numbers up - and it took huge machines to do it. 
+
+But as my skills improved, I started to be able to do cooler and cooler things (like building this blog!) and I started thinking more and more about how HTML is a powerful metaphor.
+
+HTML is hypertext markup language. The idea is that a document can be marked up to tell an internet browser how to load it.
+
+But human beings are just markup machines. As we interact with more and more of the world, we're just marking it up - adding attributes and mental notes. We're 
