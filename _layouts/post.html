@@ -15,11 +15,9 @@
       <p class="flow-text">{{ page.snippet }}</p>
       
       {% if page.spotify %}
-      <div style="background-color:#D4D4D4;">
-        <p>What I'm listening to as I write: </p>
-        <div style="margin-left:5%; margin-right:5%;">
+      <div style="background-color:#DEDEDE; margin:10px">
+        <p><b>What I'm listening to as I write: </b></p>
           <iframe src="https://embed.spotify.com/?uri={{ page.spotify }}" width="100%" height="80" frameborder="0" allowtransparency="true"></iframe>
-        </div>
       </div>
       {% endif %}
 
