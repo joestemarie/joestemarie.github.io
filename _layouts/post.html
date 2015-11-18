@@ -13,6 +13,12 @@
       <div class="row">
       <p class="blue-text">Posted {{ page.date | date: "%B %e, %Y" }}</p>
       <p class="flow-text">{{ page.snippet }}</p>
+      
+      {% if page.spotify %}
+      <iframe src="https://embed.spotify.com/?uri={{ page.spotify }}" width="100%" height="80" frameborder="0" allowtransparency="true"></iframe>
+      {% endif %}
+      <p>What I'm listening to as I write: </p>
+
 
       {{ content }}
         
