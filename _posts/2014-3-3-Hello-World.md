@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test post!
+image: /images/first-post.png
 ---
 
 Is it working?! I hope it's working!
