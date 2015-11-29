@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Year-End Reviews
-image: /images/theroad.jpg
+image: /images/theroad.JPG
 snippet: He asked if I thought there was any hope; when I answered immediately, I surprised even myself.
 spotify: spotify:track:5kiZpF6a7kxZLurZVSewtw
 ---
