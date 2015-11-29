@@ -8,7 +8,7 @@ spotify: spotify:track:5kiZpF6a7kxZLurZVSewtw
 
 I'm sitting in a car on the way back to DC and just sent in my annual review for work - my first, ever. (How wonderfully corporate of me to celebrate this!). It's a milestone that seems to cap off an entire _year_ of milestones. But how could I possibly put this year into words? How could anyone?
 
-As I was walking on the beach in North Carolina after Thanksgiving dinner, I stopped to chat with eighty-something man. (Or, as we might more accurately say, he stopped to talk with me.) There, as the tide came in, he smiled softly at me and talked about what going to the beach used to be like. He had a certain charisma that only age gives us.
+As I was walking on the beach in North Carolina after Thanksgiving dinner, I stopped to chat with an eighty-something man. (Or, as we might more accurately say, he stopped to talk with me.) There, as the tide came in, he smiled softly at me and talked about what going to the beach used to be like. He had a certain charisma that only age gives us.
 
 This conversation had all the hallmarks of a chance encounter with an elderly man. This was the moment in the story I would acquire the much-needed perspective from a man who had seen it all. He would, in my moment of reflection, turn and with an aged voice, deliver the sage advice I needed most, right?
 
