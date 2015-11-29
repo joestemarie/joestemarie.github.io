@@ -8,7 +8,9 @@ spotify: spotify:track:5kiZpF6a7kxZLurZVSewtw
 
 I'm sitting in a car on the way back to DC and just sent in my annual review for work - my first, ever. (How wonderfully corporate of me to celebrate this!). It's a milestone that seems to cap off an entire _year_ of milestones. But how could I possibly put this year into words? How could anyone?
 
-As I was walking on the beach in North Carolina after Thanksgiving dinner, I stopped to chat with eighty-something man. The conversations had all the hallmarks of a chance encounter with an elderly man. He would, in my moment of reflection, turn and with an aged voice, deliver the sage advice I needed most.
+As I was walking on the beach in North Carolina after Thanksgiving dinner, I stopped to chat with eighty-something man. (Or, as we might more accurately say, he stopped to talk with me.) There, as the tide came in, he smiled softly at me and talked about what going to the beach used to be like. He had a certain charisma that only age gives us.
+
+This conversation had all the hallmarks of a chance encounter with an elderly man. This was the moment in the story I would acquire the much-needed perspective from a man who had seen it all. He would, in my moment of reflection, turn and with an aged voice, deliver the sage advice I needed most, right?
 
 But, oh - how hilariously wrong I happened to be.
 
@@ -32,12 +34,12 @@ Even if 2015 has held _far_ more than its share of tragedy and strife, it has be
 
 In the face of the tragedy, my friends showed me the grace [that my President sang about in South Carolina](https://www.youtube.com/watch?v=IN05jVNBs64). I was welcomed in and sheltered, prayers were offered, and we all grew closer together. My close friends became a chosen, tight-knit family that showed me the true meaning of compassion. For every murderous madman, there was another old friend taking care to support us.
 
-In the face of so many personal struggles for so many, we gathered to celebrate birthdays (including my twenty-first) and anniversaries. 
+In the face of so many personal struggles for so many, we gathered to celebrate birthdays (including my twenty-first) and anniversaries. We celebrated 
 
 In the face of a political system gone haywire, I started my dream job full-time, where I've learned (sometimes the hard way) how to be a real adult and go to work everyday and, on my best days, try to make a difference. I'm lucky to be surrounded everyday by the smartest people that I've ever encountered.
 
 In the end, I am humbled by the strength of the human spirit that has been on display during these trying months. Every tragedy or hurt has unveiled a new facet of our resilience. The real beauty of humanity is that we turn ashes into artwork, that our greatest injuries can give rise to real compassion, that our moments of true vulnerability resonate with an unthinkable strength and authenticity.
 
-So I stand by my trite, cliché, Bill Clinton-quoting remark on the beach. 2015 has challenged me to my core, but it has also been a year of tremendous opportunity and growth.
+So I stand by my trite, cliché, Bill Clinton-quoting remark on the beach. 2015 has challenged me to my core, but it has also been a year of tremendous opportunity and growth. We shouldn't kid ourselves that 2016 will be any easier - in many ways, it will hold challenges that we cannot yet imagine, even in 2015. But now, as everything begins to settle, that possibility of renewal seems real enough - and I believe we can find the strength in ourselves yet to face what lies ahead.
 
-All of it had been summed up months earlier when one of my best friends and I returned to DC from Connecticut, in solemn silence, while _Bon Iver_ played. As we entered the city, he said, with a seemingly supernatural wisdom: "Well, Joe, I guess now it's up to us to rebuild."
+All of it had been summed up months earlier when one of my best friends and I returned to DC from Connecticut, in solemn silence, while _Bon Iver_ played. As we entered the city, he said, with a prescient wisdom: "Well, Joe, I guess now it's up to us to rebuild."
