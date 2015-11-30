@@ -34,7 +34,7 @@ Even if 2015 has held _far_ more than its share of tragedy and strife, it has be
 
 In the face of the tragedy, my friends showed me the grace [that my President sang about in South Carolina](https://www.youtube.com/watch?v=IN05jVNBs64). I was welcomed in and sheltered, prayers were offered, and we all grew closer together. My close friends became a chosen, tight-knit family that showed me the true meaning of compassion. For every murderous madman, there was another old friend taking care to support us.
 
-In the face of so many personal struggles for so many, we gathered to celebrate birthdays (including my twenty-first) and anniversaries. We celebrated 
+In the face of so many personal struggles for so many, we gathered to celebrate birthdays (including my twenty-first) and anniversaries. We celebrated new jobs and first dates. We came together for holidays, even when things seemed bleakest.
 
 In the face of a political system gone haywire, I started my dream job full-time, where I've learned (sometimes the hard way) how to be a real adult and go to work everyday and, on my best days, try to make a difference. I'm lucky to be surrounded everyday by the smartest people that I've ever encountered.
 
