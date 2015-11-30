@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Joe. I'm a twenty-something living and exploring in Washington, DC.
 
-### More Information
+This blog is, honestly, mostly to process. I find that writing about my experiences and documenting them helps to work through the good, the bad, and the ugly of living and, on rare occasion, I'm even inspired to share that thinking.
 
-A place to include any other types of information that you'd like to include about yourself.
+Since I spend so much of my life otherwise talking about politics, I'm trying not to do that here - so hopefully I'll focus on music, technology, and all the other things that I'm inspired by / interested in / working on / confused by / whatever else happens to come up.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Thanks for reading.
