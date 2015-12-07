@@ -15,21 +15,21 @@ Except, somehow, she doesn't seem to be beckoning to _everyone_. Somehow, it's i
 
 And of course it has - "She" has arrived. The old era is gone and Shaw has been saved from itself by her timeless eyes - just as a valley of ashes was saved almost a century ago by some unfortunate oculist looking to expand in Queens. We have been saved from all of the history, all of the "old stuff" by those same eyes.
 
-And those eyes seem to know it. Somehow, these eyes aren't just watching. They are projecting something. Eckleburg wasn't just watching, either, and Fitzgerald knew it. Eckleburg and his eyes were always far more participant than they let on - taking part in the reshaping of a great cityscape.
+And those eyes seem to know it. Somehow, these eyes aren't just watching. They are projecting something. Eckleburg wasn't just watching, either. Eckleburg and his eyes were always far more participant than they let on - taking part in the reshaping of a great cityscape. Those eyes were far more than observer - they were the messenger of
 
 (It is, of course, all too ironic that, just one block away, there is an _actual_ oculist in the new Warby Parker location. We can only hope that its practice fares better than Eckleburg's.)
 
-It is a fitting - even tragic - metaphor for gentrification, for the failings of . Behind those eyes rests the same knowledge, the same judgment, that Fitzgerald documented above the valley of ashes in the 1920s. These eyes will watch the development, as the prices rise and the residents change in the east.
+It is a fitting - even tragic - metaphor for gentrification, for the failings of our contemporary "liberal" society. Behind those eyes rests the same knowledge, the same judgment, that Fitzgerald documented above the valley of ashes in the 1920s. These eyes will watch the development, as the prices rise and the residents change.
 
-Like the attendees of Gatsby's parties, she will watch the hipsters flood U Street for the coffee and the fashion and the nightlife. She will watch us drown the shortcomings of our lives with same alcohol that
+Like the attendees of Gatsby's parties, "She" will watch the hipsters flood U Street for the coffee and the fashion and the nightlife. "She" will watch us drown the shortcomings of our lives with same alcohol that
 
 And it, too, is tragic that, somehow, in nearly 100 years, our cities are no less decadent. They prey no less on those born without privilege. They contain the same pollution that we are loathe to correct. They feature the same staggering inequalities where the rich get Warby Parker and Glen's Garden Market and everyone else gets [more expensive grocery stores](http://www.academia.edu/5042600/Food_mirages_Geographic_and_economic_barriers_to_healthful_food_access_in_Portland_Oregon) and fewer affordable housing options.
 
-Maybe, she's not so excited. As she watches the city, as she watches the "urban revitalization" roll into the east, maybe she is crying, Like [Baudelaire wrote:](http://fleursdumal.org/poem/201):
+Maybe, She's not so excited. As "She" watches the city, the "urban revitalization" roll into the east, maybe She's crying, Like [Baudelaire wrote:](http://fleursdumal.org/poem/201):
 >"She is weeping, fool, because she has lived!
-And because she lives! But what she deplores
-Most, what makes her shudder down to her knees,
-Is that tomorrow, alas! she will still have to live!
-Tomorrow, after tomorrow, always! — like us!"
+>And because she lives! But what she deplores
+>Most, what makes her shudder down to her knees,
+>Is that tomorrow, alas! she will still have to live!
+>Tomorrow, after tomorrow, always! — like us!"
 
 Then again, perhaps "She has arrived" to watch us march, once more, towards the inevitable tragedy of our own decadence.
