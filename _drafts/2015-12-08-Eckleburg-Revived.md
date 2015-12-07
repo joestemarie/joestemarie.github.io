@@ -26,10 +26,10 @@ Like the attendees of Gatsby's parties, "She" will watch the hipsters flood U St
 And it, too, is tragic that, somehow, in nearly 100 years, our cities are no less decadent. They prey no less on those born without privilege. They contain the same pollution that we are loathe to correct. They feature the same staggering inequalities where the rich get Warby Parker and Glen's Garden Market and everyone else gets [more expensive grocery stores](http://www.academia.edu/5042600/Food_mirages_Geographic_and_economic_barriers_to_healthful_food_access_in_Portland_Oregon) and fewer affordable housing options.
 
 Maybe, She's not so excited. As "She" watches the city, the "urban revitalization" roll into the east, maybe She's crying, Like [Baudelaire wrote:](http://fleursdumal.org/poem/201):
->"She is weeping, fool, because she has lived!
->And because she lives! But what she deplores
->Most, what makes her shudder down to her knees,
->Is that tomorrow, alas! she will still have to live!
->Tomorrow, after tomorrow, always! — like us!"
+>"She is weeping, fool, because she has lived!  
+And because she lives! But what she deplores  
+Most, what makes her shudder down to her knees,  
+Is that tomorrow, alas! she will still have to live!  
+Tomorrow, after tomorrow, always! — like us!"  
 
 Then again, perhaps "She has arrived" to watch us march, once more, towards the inevitable tragedy of our own decadence.
