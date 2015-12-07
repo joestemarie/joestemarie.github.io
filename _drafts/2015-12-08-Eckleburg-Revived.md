@@ -11,9 +11,9 @@ If you head into Shaw down Florida, you will see her - perched atop a sleek, hip
 
 "She has arrived," the sign declares. Her pale blue eyes, enshrined by the cloud-like hair, floating above the din of the area's newfound busyness. There she sits, beckoning like a siren.
 
-Except, somehow, she doesn't seem to be beckoning to _everyone_. Somehow, it's immediately clear - from her makeup, from the design, from her whiteness - who exactly she's beckoning to. It's clear that in this neighborhood - that was once a segregated neighborhood only blacks could live in, that was the birthplace of Duke Ellington - has changed.
+Except, somehow, she doesn't seem to be beckoning to _everyone_. Somehow, it's immediately clear - from her makeup, from the design, from her whiteness - who exactly she's beckoning to. It's clear that this neighborhood - that was once a segregated neighborhood only blacks could live in, that was the birthplace of Duke Ellington - has changed.
 
-"She" has arrived. The old era is gone and Shaw has been saved from itself by her timeless eyes - just as a valley of ashes was saved almost a century ago by some unfortunate oculist looking to expand in Queens. We have been saved from all of the history, all of the "old stuff" by those same eyes.
+And of course it has - "She" has arrived. The old era is gone and Shaw has been saved from itself by her timeless eyes - just as a valley of ashes was saved almost a century ago by some unfortunate oculist looking to expand in Queens. We have been saved from all of the history, all of the "old stuff" by those same eyes.
 
 And those eyes seem to know it. Somehow, these eyes aren't just watching. They are projecting something. Eckleburg wasn't just watching, either, and Fitzgerald knew it. Eckleburg and his eyes were always far more participant than they let on - taking part in the reshaping of a great cityscape.
 
