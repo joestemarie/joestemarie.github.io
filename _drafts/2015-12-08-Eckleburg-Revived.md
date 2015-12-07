@@ -19,17 +19,19 @@ And of course it has - "She" has arrived. The old era is gone and Shaw has been 
 
 "She" will watch the hipsters flood U Street for the coffee and the fashion and the nightlife like the attendees of Gatsby's parties. "She" will watch us drown the shortcomings of our lives with same alcohol that Gatsby's friends drank to drown their disappointments.
 
-It is a fitting metaphor for gentrification, for the failings of our contemporary "liberal" society. Behind those eyes rests the same knowledge, the same judgment, that Fitzgerald documented above the valley of ashes in the 1920s. These eyes will watch the development, as the prices rise and the residents change, but we've convinced ourselves that "She" is watching our new brunch spots, our trendy apartments.
+It is a fitting metaphor for gentrification, for the failings of our contemporary "liberal" society. Behind those eyes rests the same knowledge, the same judgment, that Fitzgerald documented above the valley of ashes in the 1920s. These eyes will watch the development, as the prices rise and the residents change, but we've convinced ourselves that "She" is watching the carefully curated posts about our Sunday brunch spots and trendy new apartments.
 
 And it is tragic that, somehow, in the nearly 100 years since Eckleburg began his watch, our cities are no less decadent. They prey no less on those born without privilege. They contain the same pollution that we are loathe to correct. They feature the same staggering inequalities where the rich get Warby Parker and Glen's Garden Market and everyone else gets [more expensive grocery stores](http://www.academia.edu/5042600/Food_mirages_Geographic_and_economic_barriers_to_healthful_food_access_in_Portland_Oregon) and fewer affordable housing options.
 
-We suffer, as Fitzgerald wrote, from "eternal blindness" to the hollowness of our progress. The reality is that in the century that Eckleburg's eyes have watched us - in the valley of ashes, in Shaw - we are still deluded about the changes in our own cities. As Eckleburg's eyes have kept watch, our cities are still monuments to their own inequities, lauded under the banner of more luxury and greater extravagance. "You can't fool God," Fitzgerald warned us - but we can sure as hell fool ourselves. We remain myopic - caught up in the development and revitalization of coffee shops and nightclubs and unable to see the century-long story of DC's history.
+We suffer, as Fitzgerald wrote, from "eternal blindness" to the hollowness of our progress. The reality is that in the century that Eckleburg's eyes have watched us - in the valley of ashes, in Shaw - we are still deluded about the changes in our own cities. As Eckleburg's eyes have kept watch, our cities are still monuments to their own inequities, lauded under the banner of more luxury and greater extravagance. "You can't fool God," Fitzgerald warned us - but we can sure as hell fool ourselves. We remain myopic - caught up in the development and revitalization of coffee shops and nightclubs and unable to see the century-long history of this neighborhood.
 
-Maybe, She's not so excited. As "She" watches the city, the "urban revitalization" roll into the east, maybe She's crying, like [Baudelaire wrote:](http://fleursdumal.org/poem/201):
+Then again, maybe She's not so excited. Maybe, as "She" watches the "urban revitalization" roll into the east  She's crying, like [Baudelaire wrote:](http://fleursdumal.org/poem/201):
 >"She is weeping, fool, because she has lived!  
 And because she lives! But what she deplores  
 Most, what makes her shudder down to her knees,  
 Is that tomorrow, alas! she will still have to live!  
 Tomorrow, after tomorrow, always! — like us!"  
+
+And, if Eckleburg's story tells us anything, she surely will be here tomorrow and tomorrow and tomorrow.
 
 Then again, perhaps "She has arrived" to watch us march, once more, towards the inevitable tragedy of our own decadence.
