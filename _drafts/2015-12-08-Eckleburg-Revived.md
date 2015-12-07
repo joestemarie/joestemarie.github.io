@@ -13,7 +13,7 @@ If you head into Shaw down Florida, you will see her - perched atop a sleek, hip
 
 "She has arrived," the bold, red capital letters declare. Her pale blue eyes, enshrined by the cloud-like hair, floating above the din of the area's newfound busyness. An advertisement for a new building that has been built at the end of U Street in Shaw, there she sits, beckoning like a siren.
 
-Except, somehow, she doesn't seem to be beckoning to _everyone_. Somehow, it's immediately clear - from her makeup, from the design, from her whiteness - to whom _exactly_ she's beckoning. It's clear that this neighborhood - that was once a segregated neighborhood only blacks could live in, that was the birthplace of Duke Ellington, that bore witness to riots in the wake of Martin Luther King's assassination - has changed.
+Except, somehow, she doesn't seem to be beckoning to _everyone_. Somehow, it's immediately clear - from her makeup, from the design, from her whiteness - to whom _exactly_ she's beckoning. It's clear that this neighborhood - that was once a segregated neighborhood only black people could live in, that was the birthplace of Duke Ellington, that bore witness to riots in the wake of Martin Luther King's assassination - has changed.
 
 And of course it has - "She" has arrived. The old era is gone and Shaw has been saved from itself by her timeless eyes - just as a valley of ashes was saved almost a century ago by some unfortunate oculist looking to expand in Queens. We have been saved from all of the history, all of the "old stuff," by those same eyes. Somehow, that history will be forgotten under a sea of new brunch Instagram posts rapidly making their way to your newsfeed.
 
