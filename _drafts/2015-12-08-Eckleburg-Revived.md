@@ -6,7 +6,7 @@ snippet: Eckleburg, the oculist, has returned to DC.
 spotify: spotify:album:2R2Cwe4kI8b2WObXZ90wOC
 ---
 
-If you head into Shaw down Florida, you will see her - perched atop a new, modern apartment building. It's nothing less than the reincarnation of the [Great Gatsby](https://en.wikipedia.org/wiki/The_Great_Gatsby)'s [T.J. Eckleburg](http://www.sparknotes.com/lit/gatsby/themes.html):
+If you head into Shaw down Florida, you will see her - perched atop a sleek, hip apartment building. It's nothing less than the reincarnation of the [Great Gatsby](https://en.wikipedia.org/wiki/The_Great_Gatsby)'s [T.J. Eckleburg](http://www.sparknotes.com/lit/gatsby/themes.html):
 >"They look out of no face, but, instead, from a pair of enormous yellow spectacles which pass over a nonexistent nose. Evidently some wild wag of an oculist set them there to fatten his practice in the borough of Queens, and then sank down himself into eternal blindness, or forgot them and moved away. But his eyes, dimmed a little by many paintless days, under sun and rain, brood on over the solemn dumping ground."
 
 "She has arrived," the sign declares. Her pale blue eyes, enshrined by the cloud-like hair, floating above the din of the area's newfound busyness. There she sits, beckoning like a siren.
