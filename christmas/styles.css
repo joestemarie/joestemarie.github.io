@@ -1,4 +1,7 @@
 /* Styling for transitions between views */
+html {font-size:32px;
+}
+
 main > * {
 	display:none;
 	padding-left:10%;
@@ -15,6 +18,7 @@ main > *:target {
 
 p,ol {
 	font-family:Avenir;
+	font-size:75%;
 }
 
 h1 {
