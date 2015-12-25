@@ -4,11 +4,11 @@ html {font-size:32px;
 
 main > * {
 	display:none;
-	padding-left:10%;
-	padding-right:10%;
+	max-width:750px;
 	padding-top:5%;
 	padding-bottom:5%;
 	transition: all 2s;
+	margin:auto;
 }
 
 main > *:target {
@@ -24,6 +24,7 @@ p,ol {
 h1 {
 	font-family:Georgia;
 	font-style:italic;
+	font-size:100%;
 }
 
 .date {
